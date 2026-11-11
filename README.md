@@ -347,56 +347,6 @@ Data Analytics Portfolio Project\
 Skills demonstrated: Python, pandas, SQL, SQLite, Power BI, data
 quality, KPI design, exploratory analysis, and business storytelling.
 
-------------------------------------------------------------------------
+ 
 
-## How to Upload This Project to GitHub
-
-### Option A --- GitHub website (easiest)
-
-1.  Sign in at <https://github.com>.
-2.  Click **New repository**.
-3.  Repository name: `supply-chain-delivery-performance-dashboard`.
-4.  Add a short description:
-    `Olist e-commerce supply chain and delivery performance analysis using Python, SQL, SQLite and Power BI.`
-5.  Choose **Public** if you want recruiters to view it; otherwise
-    choose **Private**.
-6.  Click **Create repository**.
-7.  On your computer, create the folder structure shown above.
-8.  Put each file in the matching folder.
-9.  Open the repository and select **Add file → Upload files**.
-10. Drag the project files/folders into the upload area. For large
-    files, use Git instead of the browser.
-11. Commit the files with the message:
-    `Add Supply Chain Delivery Performance Dashboard project`.
-12. Ensure `README.md` is in the repository root. GitHub will display it
-    on the project home page.
-
-### Option B --- Git command line
-
-Install Git, open Terminal / PowerShell in the project folder, and run:
-
-``` bash
-git init
-git add .
-git commit -m "Add Supply Chain Delivery Performance Dashboard project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/supply-chain-delivery-performance-dashboard.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Create the empty
-GitHub repository first. If Git asks you to authenticate, complete the
-browser sign-in flow.
-
-### Before making the repository public
-
--   Confirm that the dataset licence permits sharing the cleaned CSVs.
-    If unsure, publish the notebook and instructions but omit the CSVs,
-    and explain how to obtain the dataset from Kaggle.
--   Do not upload passwords, API keys, access tokens, private data, or
-    local environment files.
--   Check GitHub's current file-size limits. Use Git LFS or a suitable
-    external data-hosting method for large files rather than forcing
-    large files into ordinary Git history.
--   Open the README on GitHub after upload and click every file link to
-    confirm the paths work.
+ 
