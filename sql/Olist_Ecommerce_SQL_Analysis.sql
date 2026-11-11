@@ -2,7 +2,7 @@
 -- PROJECT: E-commerce Fulfilment & Delivery Performance Analysis
 -- FILE:    Olist_Ecommerce_SQL_Analysis_Beginner_Intermediate.sql
 -- DATABASE: SQLite
--- LEVEL:   Beginner to Intermediate
+ 
 -- PURPOSE:
 --   1. Check the nine separately imported cleaned tables.
 --   2. Create order-level and order-item-level analysis views.
